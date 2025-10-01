@@ -1,2 +1,2 @@
 # OLD-IS-GOLD
-# Its a random old id cracking tool
+Its a random old id cracking tool
